@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khun-luinor.github.io/apex-rush/sitemap.xml
